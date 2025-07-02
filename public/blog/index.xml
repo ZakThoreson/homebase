@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Blog on Homebase</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Security Blog on Homebase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zakthoreson@pm.me (Zachary Thoreson)</managingEditor>
+    <webMaster>zakthoreson@pm.me (Zachary Thoreson)</webMaster>
+    <copyright>© 2025 Zachary Thoreson</copyright>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Blog 2</title>
+      <link>//localhost:1313/blog/sample-post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>zakthoreson@pm.me (Zachary Thoreson)</author>
+      <guid>//localhost:1313/blog/sample-post2/</guid>
+      <description> Blog TBD # </description>
+      
+    </item>
+    
+    <item>
+      <title>Test Blog 2</title>
+      <link>//localhost:1313/blog/sample-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>zakthoreson@pm.me (Zachary Thoreson)</author>
+      <guid>//localhost:1313/blog/sample-post/</guid>
+      <description> Blog Coming Soon # </description>
+      
+    </item>
+    
+  </channel>
+</rss>
