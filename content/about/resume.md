@@ -2,6 +2,9 @@
 title: "Resume"
 description: "Testing Resume"
 ---
+
+[TOC]
+
 ## **Professional Summary**  
 
 * 7+ years of cybersecurity experience across consulting and corporate environments with 2+ years of team leadership, specializing in cloud security, OT security, incident response, threat intelligence, and risk management for critical infrastructure.
