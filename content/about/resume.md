@@ -2,11 +2,6 @@
 title: "Resume"
 description: "Testing Resume"
 ---
-
-# **Zachary Thoreson**  
-
-ZakThoreson@pm.me
-
 ## **Professional Summary**  
 
 * 7+ years of cybersecurity experience across consulting and corporate environments with 2+ years of team leadership, specializing in cloud security, OT security, incident response, threat intelligence, and risk management for critical infrastructure.
@@ -30,45 +25,45 @@ April, 2023 - Present
 _**Threat Intelligence Analyst**_  
 November, 2020 - April, 2023  
 
-* Served as the primary threat intelligence analyst for the Global Cyber Defense Team. Leveraged proprietary and open-source intelligence tools to enrich and assist in the containment and response of Tier 3 incidents across the organization. 
+* Led threat intelligence operations for the Global Cyber Defense Team, leveraging OSINT and proprietary tools to support Tier 3 incident containment and response across the organization.
 * Oversaw a global attack-surface reduction project to reduce the number of ‘Critical’ and ‘High’ findings on edge assets by 90% in 16 months.
-* Integrated ‘Crown Jewel’ applications with AES’s CASB solution to allow for security monitoring and alerting of mission critical systems housing sensitive customer and organizational data. 
-* Developed a risk assessment framework for use in 100+ international Operational Technology (OT) sites to standardize and compare maturity models.
-* Performed adversary emulation testing to ensure adequate coverage by EDR from known ransomware and APT group tactics, techniques, and procedures (TTPs).
-* Assisted in a large project to replace the organization’s MSSP. Tasks included market research of vendors, platform onboarding, and assistance in the migration and training of new users of the adopted SIEM/SOAR solution.
+* Integrated 5 Crown Jewel applications with AES's CASB solution, enabling real-time monitoring and alerting for missioncritical systems containing sensitive customer and organizational data.
+* Developed a risk assessment framework for use in 100+ international OT sites to standardize and compare maturity models.
+* Conducted adversary emulation testing simulating ransomware and APT tactics to validate EDR coverage and identify detection gaps.
 
 ### **Thoreson Consulting**  
 
 _**Founder**_  
 November, 2020 - December 2024  
 
-* Owned a cybersecurity consulting business to aid small businesses and non-profits in improving cybersecurity posture and reducing the likelihood and impact of a cybersecurity incident. 
-* Grew a book of business with over five (5) clients, with (one) 1 on a retainer alongside a full-time job and graduate school. Achieved $10,000+ in Year 1 sales, $25,000 Year 3. 
-* Developed and sold security risk assessments, custom cloud development, and security training to small- and medium-sized businesses throughout the Indianapolis area. Assessments include detailed remediation steps; leveraged to sell remediation consulting services. 
-* Prior engagements included moving clients from a functional domain of Windows 2008 to Windows 2022 with hybrid cloud adoption, ransomware incident response and recovery, custom cloud architecture development, and migration from home network to commercial network deployments. 
-* Researched local competitors, marketing events, and opportunities to network with small businesses in Indianapolis to promote the brand.
+* Founded and operated cybersecurity consulting firm serving small businesses and non-profits while maintaining full-time employment and graduate studies.
+* Grew a book of business with over five (5) clients, with (one) 1 on a retainer alongside a full-time job and graduate school. Achieved $10,000+ in Year 1 sales: $20,000+ Year 3.
+* Developed and sold security risk assessments, custom cloud development, and security training to small- and medium-sized businesses throughout the Indianapolis area. Assessments include detailed remediation steps; leveraged to sell remediation consulting services.
+* Prior engagements included moving clients from a functional domain of Windows 2008 to Windows 2022 with hybrid cloud adoption, ransomware incident response and recovery, custom cloud architecture development, and migration from home network to commercial network deployments.
 
 ### **Crowe, LLC**  
 
 _**Cybersecurity Consultant**_  
 September, 2018 - November, 2020
 
-* Led a team of consultants to develop cloud security risk assessment product offerings. 
-* Performed NIST CSF risk assessments for clients in the healthcare and financial industries with detailed remediation steps for security improvements. 
+* Led a team of consultants to develop cloud security risk assessment product offerings.
+* Performed NIST CSF risk assessments for clients in the healthcare and financial industries with detailed remediation steps for security improvements.
 * Served as the SME for vulnerability management to facilitate attack surface reduction throughout a large Indiana regional hospital. Communicated with client stakeholders on key metrics, progress, and roadblocks.
 * Onboarded and trained new consultants joining the Cybersecurity Consulting team. Maintained notes and internal processes for repeatability across the portfolio of clients.
 
-## Skills & Software Proficiencies
-
-* **Security Tools** |  Microsoft Defender (Endpoint, Cloud Apps, Identity), Wiz, GitLab, Rapid7, Xpanse, Google Chronicle (SIEM + SOAR)
-* **Languages & Reporting**: Python, Databricks, Dominolab, PowerBI, API & Integration Development, Power Automate, Logic Apps, Terraform
-* **Frameworks**: NIST 800-53, CSA Cloud Controls Matrix (CCM), NIST CSF, NERC CIP, DISA STIG
-
 ## Education
 
-* Master of Science in Computer Information Technology - Purdue University (_expected: May 2025_)
-* Bachelor of Science in Cybersecurity - Purdue University (2018)
+* **Master of Science in Computer Information Technology** - Purdue University (2025)
+* **Bachelor of Science in Cybersecurity** - Purdue University (2018)
 
 ## Certifications
 
 * Certified Information Systems Security Professional (_CISSP_)
+* (_In Progress_) Google Professional Cloud Security Engineer
+
+## Technical SKills & Technologies 
+
+* **Cloud Platforms**: Azure & Google Cloud Platform
+* **Security Tools**: Microsoft Defender E5, Wiz, Avalor, Rapid7, Xpanse, HoxHunt, Google SecOps (SIEM/SOAR)
+* **Code & Reporting**: Databricks, Dominolab, PowerBI, API & Integration Development, Terraform
+* **Frameworks**: NIST 800-53, CSA Cloud Controls Matrix (CCM), NIST CSF, NERC CIP, DISA STIG
