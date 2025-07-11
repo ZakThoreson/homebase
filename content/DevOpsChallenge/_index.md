@@ -11,14 +11,20 @@ This is inspired by the DevOps resume challenege, but I am to take an abridged a
 
 ## Goals
 
+### Completed
+
 * Develop a personal website locally on my machine
 * Synchronize that website with GitHub
+
+### Todo
+
 * Register and secure a domain
+* Deploy a static page (temporary)
 * Write terraform & ansible code to deploy homebase to cloud infrastructure
 * Implement a CI/CD pipeline to facilitate automated deployment
 * Include security scanning and tests throughout the pipeline
 
-## Longer Term Goals
+### Longer Term Goals
 
 * Incorporate dev / prod environments
 
