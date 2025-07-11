@@ -21,12 +21,6 @@
   pageRef = "/about/resume.md"
   weight = 20
 
-[[main]]
-  name = "Timeline"
-  parent = "about"
-  pageRef = "/about/professional-timeline.md"
-  weight = 20
-
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
