@@ -7,25 +7,25 @@ description: "Testing Resume"
 
 ZakThoreson@pm.me
 
-## **Career Summary**  
+## **Professional Summary**  
 
-* 2+ years of experience managing teams and growing their skillsets; 7 years of cybersecurity experience across cloud security, incident response, and risk management in critical infrastructure sectors.  
-* Developed and conducted risk assessments leveraging the NIST CSF, DISA STIG, and CIS Benchmarks to identify and weigh risks throughout healthcare and energy sectors. Wrote and sold custom assessments to small businesses.  
-* Remediated 39 critical and 468 high issues in two years through a cross-organization governance initiative.  
-* Expertise in communicating KPIs, security incidents, and program updates to senior leadership; actively maintaining vendor relationships, studying industry trends, and staying up to date on new technologies and emerging threats.  
+* 7+ years of cybersecurity experience across consulting and corporate environments with 2+ years of team leadership, specializing in cloud security, OT security, incident response, threat intelligence, and risk management for critical infrastructure.
+* Lead Global Cybersecurity Center of Excellence managing security operations across 13 business units at AES, maintaining board-level KPIs for coverage and incident response.  
+* Proven business development expertise founding a successful cybersecurity consulting firm generating $20K+ revenue while maintaining full-time employment and graduate studies.
+* Led end-to-end security tool deployments supporting global initiatives while providing subject matter expertise in governance frameworks and secure design principles.
 
 ## **Work Experience**  
 
 ### **The AES Corporation**  
 
 _**Cloud Security Manager**_  
-April, 2023 - Current  
+April, 2023 - Present  
 
-* Co-founded a ‘Cloud Security Governance’ program to facilitate collaboration between IT and security business units; achieved a reduction of all (39) ‘Critical’ issues and 87% (468) of ‘High’ issues in a 24-month period. 
-* Manage one (1) direct report and nine (9) business-unit leads internationally. Promoted one team member to an engineering team. Hire and assist in interviewing for the wider cyber defense team.  
-* Oversee training and preparation to ensure incident readiness by reviewing incident response plans, conducting tabletop exercises, and providing cloud security training to adjacent teams.  
-* Implemented a CI/CD scanning solution to scan and block all pipelines from releasing code with critical vulnerabilities or potentially sensitive information.  Developed metrics solutions to track KPIs including coverage and blocked deployments.
-* Procured and operationalized three (3) security tools (Wiz, Avalor, and Xpanse) to increase Cyber Defense Team Capabilities. Oversaw training of users on new technologies and continue to assist in the development of metrics and integrations of tools.
+* Manage 6 direct reports and the relationship with over 20 business unit leaders internationally. Successfully promoted one team member to internal engineering role and conduct technical interviews for cyber defense team expansion.
+* Co-founded Cloud Security Governance program that eliminated all 39 critical cloud security issues and resolved 87% of high-severity issues (468 total) within 24 months through improved IT-security collaboration.
+* Implemented enterprise CI/CD security scanning solution to automatically block code deployments containing critical vulnerabilities or sensitive data exposure. Built comprehensive metrics dashboard tracking pipeline coverage and blocked deployments.
+* Lead incident response operations across IT, OT, and cloud environments. Manage vendor relationships and maintain security dashboards ensuring timely resolution of incidents and vulnerabilities.
+* Procured and deployed 3 enterprise security tools (Wiz, Avalor, Xpanse) expanding team capabilities. Directed user training programs and ongoing metrics/integration development to operationalize new platforms.
 
 _**Threat Intelligence Analyst**_  
 November, 2020 - April, 2023  

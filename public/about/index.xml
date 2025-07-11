@@ -12,16 +12,6 @@
     <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Professional Timeline</title>
-      <link>//localhost:1313/about/professional-timeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>zakthoreson@pm.me (Zachary Thoreson)</author>
-      <guid>//localhost:1313/about/professional-timeline/</guid>
-      <description>For a more detailed backgound, please see my resume!</description>
-      
-    </item>
-    
-    <item>
       <title>Resume</title>
       <link>//localhost:1313/about/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
