@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name ='DevOpsChallenge'
+  pageRef = "/DevOpsChallenge/_index.md"
+  weight = 30
+
+[[main]]
   name = "Blog"
   pageRef = "/blog/"
   weight = 10

@@ -61,7 +61,7 @@ September, 2018 - November, 2020
 * Certified Information Systems Security Professional (_CISSP_)
 * (_In Progress_) Google Professional Cloud Security Engineer
 
-## Technical SKills & Technologies 
+## Technical SKills & Technologies
 
 * **Cloud Platforms**: Azure & Google Cloud Platform
 * **Security Tools**: Microsoft Defender E5, Wiz, Avalor, Rapid7, Xpanse, HoxHunt, Google SecOps (SIEM/SOAR)
