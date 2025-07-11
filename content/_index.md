@@ -14,5 +14,5 @@ Please check out my experience here!
 
 ### Purpose
 
-The website is an abridged version of the 'Cloud Resume Challenge'
-[Follow along with my progress](/content/DevOpsChallenge/_index.md)
+The website is an abridged version of the 'Cloud Resume Challenge'  
+[Follow along with my progress](/devopschallenge)

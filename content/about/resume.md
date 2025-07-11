@@ -1,6 +1,7 @@
 ---
 title: "Resume"
-description: "Testing Resume"
+description: "Up to date resume"
+date: 04 Jul 2025
 ---
 ## **Professional Summary**  
 
