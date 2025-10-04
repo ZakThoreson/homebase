@@ -22,7 +22,21 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>Coming Soon - Homebase Creation Writeup</title>
+=======
+      <title>My Blog 2</title>
+      <link>//localhost:1313/blog/sample-post2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>zakthoreson@pm.me (Zachary Thoreson)</author>
+      <guid>//localhost:1313/blog/sample-post2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Test Blog 2</title>
+>>>>>>> 5e0755c (Update changes)
       <link>//localhost:1313/blog/sample-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>zakthoreson@pm.me (Zachary Thoreson)</author>
