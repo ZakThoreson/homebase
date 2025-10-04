@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Resume"
-  pageRef = "/resume.md"
+  pageRef = "/About/resume.md"
   weight = 20
 
 #[[main]]
