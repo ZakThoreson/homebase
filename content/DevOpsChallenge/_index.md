@@ -9,6 +9,8 @@ This website, homebase, serves as both a means to centralize my contact informat
 
 This is inspired by the DevOps resume challenege, but I am to take an abridged approach. Additionally, I hope to write some blog content based on the lessons learned and troubleshooting experienced.
 
+Follow along my progress on my [Github Page](https://github.com/zakthoreson)!
+
 ## Current Status
 
 * Locally hosted site
