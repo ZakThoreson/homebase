@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resume on Homebase</title>
+    <title>About Me on Homebase</title>
     <link>//localhost:1313/about/</link>
-    <description>Recent content in Resume on Homebase</description>
+    <description>Recent content in About Me on Homebase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zakthoreson@pm.me (Zachary Thoreson)</managingEditor>
     <webMaster>zakthoreson@pm.me (Zachary Thoreson)</webMaster>
     <copyright>© 2025 Zachary Thoreson</copyright>
-    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Resume</title>
       <link>//localhost:1313/about/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <author>zakthoreson@pm.me (Zachary Thoreson)</author>
       <guid>//localhost:1313/about/resume/</guid>
-      <description>Zachary Thoreson # ZakThoreson@pm.</description>
+      <description></description>
       
     </item>
     

@@ -1,5 +1,5 @@
 ---
-title: Test Blog 2
+title: Coming Soon - Homebase Creation Writeup
 description: "Listing of my various blog articles!"
 ---
 

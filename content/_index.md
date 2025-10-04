@@ -14,4 +14,5 @@ Please check out my experience here!
 
 ### Purpose
 
-The website is an abridged version of the 'Cloud Resume Challenge' that I hope to grow into a personal playground for DevOps practice. I hope to include some meta blog posts.
+The website is an abridged version of the 'Cloud Resume Challenge'  
+[Follow along with my progress](/devopschallenge)
